@@ -13,4 +13,22 @@ Uma ideia inovadora na área de TI em Belo Horizonte é criar uma plataforma de 
 
 À medida que a plataforma ganhar popularidade e conquistar uma base de usuários sólida em Belo Horizonte, você poderá expandir para outras regiões e aumentar a oferta de serviços, como workshops presenciais, eventos e até mesmo a criação de um marketplace para contratação de serviços de TI.
 
-Lembre-se de realizar uma pesquisa detalhada de mercado, identificar a viabilidade financeira do projeto e desenvolver um plano de negócios sólido. Além disso, esteja preparado para investir em marketing digital eficiente, para atrair usuários e profissionais para a plataforma.
+### Recursos necessários:
+1. Desenvolvimento de software: Contratação de desenvolvedores para criar a plataforma online.
+2. Hospedagem e infraestrutura: Servidores e infraestrutura de hospedagem para manter a plataforma online.
+3. Design e experiência do usuário: Contratação de designers para criar uma interface intuitiva e atraente.
+4. Sistema de agendamento e pagamento: Desenvolvimento de um sistema integrado para agendamento de sessões e processamento de pagamentos.
+5. Recursos de comunidade: Implementação de fóruns de discussão, grupos temáticos e espaços para compartilhamento de conteúdo.
+6. Sistema de avaliações e comentários: Desenvolvimento de um sistema que permita aos usuários deixarem avaliações e comentários sobre os profissionais.
+7. Sistema de recomendação: Implementação de um sistema que ofereça recomendações personalizadas aos usuários com base em suas preferências e histórico de utilização.
+8. Programa de afiliados: Criação de um programa para incentivar usuários a indicarem novos profissionais ou usuários para a plataforma.
+
+### Custos associados:
+1. Desenvolvimento de software: $X,XXX (dependendo do escopo do projeto e do valor horário dos desenvolvedores contratados).
+2. Hospedagem e infraestrutura: $XXX por mês (varia de acordo com o provedor de hospedagem e a escala da plataforma).
+3. Design e experiência do usuário: $X,XXX (custo variável com base na complexidade do design e na taxa horária dos designers).
+4. Sistema de agendamento e pagamento: $X,XXX (custo variável dependendo da complexidade do sistema e dos recursos adicionais).
+5. Recursos de comunidade: $XXX (desenvolvimento e manutenção contínua dos recursos de comunidade).
+6. Sistema de avaliações e comentários: $XXX (desenvolvimento e integração do sistema de avaliações e comentários na plataforma).
+7. Sistema de recomendação: $XXX (desenvolvimento e implementação do sistema de recomendação personalizada).
+8. Programa de afiliados: Custo variável com base nas recompensas oferecidas aos afiliados.
