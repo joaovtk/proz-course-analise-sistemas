@@ -1,3 +1,5 @@
+# Ideia de Consultoria em Segurança Cibernética para PMEs em Belo Horizonte - Conteudo gerado por chatgpt
+
 ## Descrição
 
 A ideia é fornecer serviços de consultoria em segurança cibernética para pequenas e médias empresas (PMEs) em Belo Horizonte. Muitas PMEs enfrentam desafios significativos na proteção de seus dados e sistemas contra ameaças cibernéticas devido à falta de recursos e conhecimento especializado na área de segurança cibernética. O objetivo é ajudar essas empresas a fortalecer suas defesas, mitigar riscos e proteger seus ativos digitais.
