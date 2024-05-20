@@ -39,5 +39,3 @@ A ideia é oferecer serviços de consultoria em segurança cibernética para peq
 3. Parcerias estratégicas: Estabeleça parcerias com outras empresas de TI, como provedores de serviços de hospedagem, desenvolvedores de software e fornecedores de soluções de segurança cibernética. Essas parcerias podem fornecer recursos adicionais e expertise complementar para atender às necessidades dos clientes.
 
 4. Ferramentas e software de segurança: Adquira as ferramentas e softwares necessários para realizar avaliações de segurança, análise de vulnerabilidades, detecção de ameaças e resposta a incidentes. Isso pode incluir firewalls, antivírus, sistemas de detecção de intrusões, soluções de criptografia e ferramentas de análise forense.
-
-Certifique-se de fazer uma análise detalhada dos custos e recursos necessários para implementar sua consultoria em segurança cibernética, levando em consideração as necessidades específicas do seu negócio e a escala das operações que você planeja oferecer.
