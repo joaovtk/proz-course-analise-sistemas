@@ -1,4 +1,4 @@
-## Ideia: Plataforma de Compartilhamento de Conhecimento e Habilidades entre Profissionais de TI em Belo Horizonte
+## Ideia: Plataforma de Compartilhamento de Conhecimento e Habilidades entre Profissionais de TI em Belo Horizonte - Conteudo gerado por chatgpt
 
 Uma ideia inovadora na área de TI em Belo Horizonte é criar uma plataforma de compartilhamento de conhecimento e habilidades entre profissionais de TI. A plataforma tem potencial para começar pequena e crescer no futuro, tornando-se uma comunidade online onde os profissionais de TI podem oferecer aulas, mentorias ou consultorias sobre suas áreas de especialização.
 
