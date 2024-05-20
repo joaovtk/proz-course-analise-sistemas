@@ -18,5 +18,3 @@ A ideia é fornecer serviços de consultoria em segurança cibernética para peq
 
 - Custos: Despesas iniciais, infraestrutura (computadores, software de segurança, servidores, equipamentos de rede), recursos humanos (salários, benefícios, treinamentos), marketing (website, campanhas digitais) e parcerias estratégicas (negociação e compartilhamento de receita).
 - Recursos: Equipe qualificada em segurança cibernética, infraestrutura tecnológica (computadores, servidores, software de segurança), parcerias estratégicas com empresas de TI e ferramentas/software de segurança.
-
-Lembre-se de realizar uma análise detalhada dos custos e recursos necessários para implementar a consultoria em segurança cibernética, de acordo com as necessidades específicas do seu negócio e a escala das operações planejadas.
