@@ -24,11 +24,11 @@ Uma ideia inovadora na área de TI em Belo Horizonte é criar uma plataforma de 
 8. Programa de afiliados: Criação de um programa para incentivar usuários a indicarem novos profissionais ou usuários para a plataforma.
 
 ### Custos associados:
-1. Desenvolvimento de software: $X,XXX (dependendo do escopo do projeto e do valor horário dos desenvolvedores contratados).
-2. Hospedagem e infraestrutura: $XXX por mês (varia de acordo com o provedor de hospedagem e a escala da plataforma).
-3. Design e experiência do usuário: $X,XXX (custo variável com base na complexidade do design e na taxa horária dos designers).
-4. Sistema de agendamento e pagamento: $X,XXX (custo variável dependendo da complexidade do sistema e dos recursos adicionais).
-5. Recursos de comunidade: $XXX (desenvolvimento e manutenção contínua dos recursos de comunidade).
-6. Sistema de avaliações e comentários: $XXX (desenvolvimento e integração do sistema de avaliações e comentários na plataforma).
-7. Sistema de recomendação: $XXX (desenvolvimento e implementação do sistema de recomendação personalizada).
-8. Programa de afiliados: Custo variável com base nas recompensas oferecidas aos afiliados.
+1. Desenvolvimento de software
+2. Hospedagem e infraestrutura
+3. Design e experiência do usuário
+4. Sistema de agendamento e pagamento
+5. Recursos de comunidade
+6. Sistema de avaliações e comentários
+7. Sistema de recomendação
+8. Programa de afiliados
